@@ -201,15 +201,40 @@ jupyter notebook
 
 ---
 
-## Department-wise Attrition
+## Department Attrition
 
 ![image alt](https://github.com/Karan09152006/Employee-Attrition-Classification/blob/7b673cf244052c96ec31abbbad99c07b39dae1cd/charts/chart1_department_attrition.png)
 
 ---
 
+## Job Role Attrition
+
+![image alt](https://github.com/Karan09152006/Employee-Attrition-Classification/blob/328342ade7bbc239c67b15d86900f72ca03b8bbf/charts/chart1_jobrole_attrition.png)
+
+---
+
+## Income vs Attrition
+
+![image alt](https://github.com/Karan09152006/Employee-Attrition-Classification/blob/328342ade7bbc239c67b15d86900f72ca03b8bbf/charts/chart2_income_vs_attrition.png)
+
+--
+
 ## Confusion Matrix Heatmap
 
 ![image alt](https://github.com/Karan09152006/Employee-Attrition-Classification/blob/7b673cf244052c96ec31abbbad99c07b39dae1cd/charts/chart3_Confusion_Matrix_Heatmap.png)
+
+---
+
+## Feature Importance
+
+![image alt](https://github.com/Karan09152006/Employee-Attrition-Classification/blob/328342ade7bbc239c67b15d86900f72ca03b8bbf/charts/chart4_feature_importance.png)
+
+---
+
+## ROC Curve
+
+![image alt](https://github.com/Karan09152006/Employee-Attrition-Classification/blob/328342ade7bbc239c67b15d86900f72ca03b8bbf/charts/chart5_roc_curve.png)
+
 ```
 
 ---
