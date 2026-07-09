@@ -199,10 +199,6 @@ jupyter notebook
 
 ## 📸 Results
 
-Add your screenshots inside the **images** folder and display them like this.
-
-```markdown
-
 ---
 
 ## Department-wise Attrition
@@ -211,7 +207,7 @@ Add your screenshots inside the **images** folder and display them like this.
 
 ---
 
-## Confusion Matrix
+## Confusion Matrix Heatmap
 
 ![image alt](https://github.com/Karan09152006/Employee-Attrition-Classification/blob/7b673cf244052c96ec31abbbad99c07b39dae1cd/charts/chart3_Confusion_Matrix_Heatmap.png)
 ```
